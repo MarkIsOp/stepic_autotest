@@ -1,3 +1,2 @@
 # stepic_autotest
-Test tasks
-123
+Репозиторий для курса "Автоматизация тестирования с помощью Selenium и Python" на stepic.org
